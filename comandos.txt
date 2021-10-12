@@ -1,0 +1,7 @@
+git init : inicializa el proyecto
+git config user.name "Nombre"
+git config user.email "micorreo@correo"
+git add . : agrega archivos a subir
+git commit: marca los cambios realizados
+git push: sube los archivos commiteados, siempre hay que hacer un pull antes
+git pull: actualiza los datos del reositorio de github
