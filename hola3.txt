@@ -1,3 +1,7 @@
 hola3
+<<<<<<< HEAD
 
 "Primer cambio de Leandro"
+=======
+cambio 2
+>>>>>>> 128ae895ea98f4293bf5a82cc2b9eec8295e40e5
